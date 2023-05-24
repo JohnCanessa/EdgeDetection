@@ -10,7 +10,7 @@ and repeat.
 If interested in additional comments regarding this code I invite 
 yout to read the follwoing post:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/05/24/edge-detection/
 
 Enjoy,
 
